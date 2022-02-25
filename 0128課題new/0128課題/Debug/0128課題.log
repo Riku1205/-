@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\0128課題new\0128課題\Source.cpp(51): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\Users\user\Desktop\0128課題new\0128課題\Source.cpp(188): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Desktop\0128課題new\0128課題\Source.cpp(188): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\user\Desktop\0128課題new\0128課題\Source.cpp(219): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Desktop\0128課題new\0128課題\Source.cpp(219): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\user\Desktop\0128課題new\0128課題\Source.cpp(347): warning C4101: 'tmp': ローカル変数は 1 度も使われていません。
+  0128課題.vcxproj -> C:\Users\user\Desktop\0128課題new\Debug\0128課題.exe

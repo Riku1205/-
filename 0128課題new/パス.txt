@@ -1,0 +1,8 @@
+""を消す　
+スペースを消す
+
+C:\Users\user\Desktop\0128課題new\画像フォルダ\images.raw
+
+C:\Users\user\Desktop\0128課題new\画像フォルダ\images01.raw
+
+C:\Users\user\Desktop\0128課題new\画像フォルダ\images02.raw

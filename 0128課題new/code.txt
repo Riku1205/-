@@ -1,0 +1,23 @@
+左右反転
+for(j=0; j<Y_SIZE; j++)
+{
+	for(i=0; i<X_SIZE/2; i++)
+	{
+		int tmp = img[j][i];
+		img[j][i] = img[y][X_SIZE - i - 1];
+		Image[j][X_SIZE - i - 1] = tmp;
+	}
+}
+
+上下反転
+for(y=0; y<h/2; y++)
+for(x=0; x<w; x++){
+int tmp = Image.w[y][x];
+Image.w[y][x] = Image.w[h - y - 1][x];
+Image.w[h - y - 1][x] = tmp;
+}
+明度値の反転
+for(y=0; y<h; y++)
+for(x=0; x<w; x++){
+Image.w[y][x] = 255 - Image.w[y][x];
+}
